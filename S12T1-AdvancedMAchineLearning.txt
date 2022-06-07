@@ -1,3 +1,0 @@
-Realización del Sprint 12 Tarea 1 DataScience:
-
-https://github.com/InakiUrzz/S12-MachineLearning
